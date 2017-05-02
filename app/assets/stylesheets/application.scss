@@ -14,9 +14,11 @@
  *= require_self
  */
 @import "materialize";
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 .container {
-  width: 1000px;
+  width: 1200px;
 }
 
 body {
@@ -26,5 +28,6 @@ body {
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
+
 
 }

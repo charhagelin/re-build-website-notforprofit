@@ -25,7 +25,7 @@ gem 'rolify'
 gem 'pundit'
 gem 'materialize-sass'
 gem 'carrierwave', '~> 1.0'
-
+gem 'font-awesome-sass', '~> 4.7.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
